@@ -1,0 +1,12 @@
+title: There I Travelled
+email: prasannacse2005@gmail.com
+description: >-
+  My experience about the places I travelled. It could be totally random, mental but memorable
+baseurl: ""
+url: ""
+twitter_username: worldofprasanna
+github_username:  worldofprasanna
+
+theme: minima
+plugins:
+  - jekyll-feed

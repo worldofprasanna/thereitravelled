@@ -1,1 +1,5 @@
 .idea/
+.bundle/
+.jekyll-cache/
+_site/
+
